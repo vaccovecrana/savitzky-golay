@@ -1,7 +1,7 @@
 plugins { id("io.vacco.oss.gitflow") version "0.9.8" }
 
 group = "io.vacco.savitzky-golay"
-version = "1.0.0"
+version = "1.0.1"
 
 configure<io.vacco.oss.gitflow.GsPluginProfileExtension> {
   addJ8Spec()
